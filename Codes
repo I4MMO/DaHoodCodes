@@ -1,1 +1,6 @@
-{ 'POOLPARTY', 'DHSUMMER', 'TRADEME!', 'FIREWORKS', '2023JULY4' }
+{ 'POOLPARTY', --
+'DHSUMMER', --Entire summer
+'TRADEME!', --Stays
+'FIREWORKS --Stays
+'2023JULY4' 
+}
